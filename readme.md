@@ -9,7 +9,6 @@
 
 
 ### Installation
-* Stable
 
 > npm i midori-api
 
