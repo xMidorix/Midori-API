@@ -1,0 +1,13 @@
+{
+  "name": "Melody.api",
+  "version": "1.0.0",
+  "description": "Melody - An normal API focused in memes",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Assassin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "keywords": ["memes", "api"]
+}
