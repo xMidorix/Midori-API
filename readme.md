@@ -25,6 +25,8 @@ const api = new Base();
 
 let meme = await api.meme("");
 
+client.login("BOT_TOKEN")
+
 ```
 
 
